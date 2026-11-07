@@ -1,7 +1,15 @@
 **Nama            : Nikita Reksa Hinggela**
+
+
 **NIM             : 12402051030035**
+
+
 **Kelas           : 5A**
+
+
 **Dosen Pengampu  : Muhammad Azwar, S.Pd.I, M.Hum**
+
+
 ---
 
 # LAPORAN PROSES PENGERJAAN PROJEK UTS WEBSITE LOOP & BLOOM
